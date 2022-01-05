@@ -1,0 +1,28 @@
+#output
+{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid maroon;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+body
+{
+    background-image: url("Game\ Page\ Background.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
+
+#game_page_heading
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#No_1
+{
+    width: 500px;
+    height: 25px;
+}
